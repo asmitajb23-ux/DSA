@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/BusinessComputers.in/OneDrive/Desktop/asmita.cpp/DSA/Arrays",
-      "program": "c:/Users/BusinessComputers.in/OneDrive/Desktop/asmita.cpp/DSA/Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/BusinessComputers.in/OneDrive/Desktop/asmita.cpp/DSA/_03_Recursion",
+      "program": "c:/Users/BusinessComputers.in/OneDrive/Desktop/asmita.cpp/DSA/_03_Recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
